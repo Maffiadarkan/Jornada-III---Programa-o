@@ -1,2 +1,2 @@
 # Jornada-III---Programa-o
-Destinado asatividades do Curso Formadores em Ação - 3º trimestre 2022
+Destinado às atividades do Curso Formadores em Ação - 3º trimestre 2022
