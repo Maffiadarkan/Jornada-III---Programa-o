@@ -1,2 +1,2 @@
-# Jornada_III___Programacao
-Destinado às atividades do Curso Formadores em Ação - 3º trimestre 2022
+# formacaoEM-3tri
+##Repositório para guardar o projeto feito na formação Ensino Médio
