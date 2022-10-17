@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Sobre o grupo</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <img src=https://assets.infra.grancursosonline.com.br/projeto/thumbnail-carrossel/seed-pr-secretaria-de-estado-da-educacao-do-parana.png>
+    <ul>
+      <li>Página Inicial</li>
+      <li>Sobre o grupo</li>
+      <li>Informações</li>
+    </ul>  
+    </header>   
